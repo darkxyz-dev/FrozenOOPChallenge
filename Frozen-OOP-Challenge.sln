@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frozen-OOP-Challenge", "Frozen-OOP-Challenge\Frozen-OOP-Challenge.csproj", "{5B44517C-8353-4A3D-BCEE-B0ECF9CD3225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B44517C-8353-4A3D-BCEE-B0ECF9CD3225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B44517C-8353-4A3D-BCEE-B0ECF9CD3225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B44517C-8353-4A3D-BCEE-B0ECF9CD3225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B44517C-8353-4A3D-BCEE-B0ECF9CD3225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC496D9-7DAE-401F-9C3C-EAD457FB548B}
+	EndGlobalSection
+EndGlobal
